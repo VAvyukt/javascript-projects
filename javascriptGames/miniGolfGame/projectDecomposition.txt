@@ -1,0 +1,15 @@
+List the smaller game parts here:
+
+Hole location
+Obstacle locations
+Obstacle movement
+Frame of game
+Putter position = mouse position
+Ball mass/gravity/collision
+Ball movement
+Putter physics
+Putter rotation
+Hit counter
+Par?
+Ball disappears if overlap with hole
+End screen with "you won! you got an hole-in-one/ace/albatross/eagle/birdie/par/bogey/double bogey, etc.

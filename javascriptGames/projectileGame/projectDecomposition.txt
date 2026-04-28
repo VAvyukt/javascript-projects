@@ -1,0 +1,7 @@
+List the smaller game parts here:
+
+Creating the cannon, cannon movement line, solid/moveable/and winning blocks as sprites
+Creating a ball and shooting it based on the angle of the cannon when mouse is clicked.
+Allowing the user to rotate and move the cannon.
+Creating the physics for the blocks to stack and fall like they would in the real world.
+Creating a win screen with number of shots/ball count.

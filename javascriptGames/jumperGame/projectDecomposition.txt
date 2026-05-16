@@ -1,0 +1,9 @@
+List the smaller game components here:
+
+Creating the grassy platform and coins to setup the level.
+Creating the character and the properties/boolean statements for the movement of the character.
+Rotating the coins
+Having a score counter for the number of coins collected.
+Making the coins disappear once the character collides with them.
+If they fall off the platform, reset the character to the original position, but keep the score the same with the number of coins collected.
+Having an end platform for the character to reach to win the level. Once the character reaches this, make the end screen popup.
